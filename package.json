@@ -2,7 +2,7 @@
   "name": "1",
   "version": "1.0.0",
   "scripts": {
-    "start": "node generate/"
+    "start": "node index.js"
   },
   "dependencies": {
     "lodash": "^4.13.1"
