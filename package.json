@@ -5,6 +5,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "convert-array-to-csv": "^1.0.7",
     "lodash": "^4.13.1"
   }
 }

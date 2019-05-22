@@ -17,10 +17,10 @@ Barbu
 Bartolomeu
 Bogdan
 Caius
-Călin
+Calin
 Camil
 Carol
-Cătălin
+Catalin
 Cezar
 Chiril
 Ciprian
@@ -47,7 +47,7 @@ Dorin
 Doru
 Dragan
 Dragomir
-Dragoș
+Dragos
 Duiliu
 Dumitru
 Eduard
@@ -79,7 +79,7 @@ Ilie
 Ioan
 Ion
 Ionel
-Ionuț
+Ionut
 Iordan
 Iosif
 Irinel
@@ -89,9 +89,9 @@ Iurie
 Iustin
 Jadranko
 Joseph
-Lascăr
-Laurențiu
-Lazăr
+Lascar
+Laurentiu
+Lazar
 Leonte
 Liviu
 Luca
@@ -131,9 +131,9 @@ Pompiliu
 Preda
 Puiu
 Radu
-Rareș
+Rare
 Raul
-Răzvan
+Razvan
 Remus
 Roman
 Romulus
@@ -141,7 +141,7 @@ Sabin
 Sava
 Scarlat
 Sebastian
-Șerban
+Serban
 Serghei
 Sergiu
 Sever
@@ -149,7 +149,7 @@ Silviu
 Simion
 Sorin
 Stan
-Ștefan
+Stefan
 Stelian
 Stroe
 Teodor
@@ -168,7 +168,7 @@ Valer
 Valeriu
 Vasile
 Victor
-Vintilă
+Vintila
 Viorel
 Virgil
 Vitalie
